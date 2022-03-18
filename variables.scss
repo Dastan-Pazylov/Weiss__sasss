@@ -1,0 +1,30 @@
+
+$ff: "Dinpro", sans-serif;
+$mainColor: #FF9900;
+
+
+%btn1 {
+  background: linear-gradient(97.1deg, #FF9900, #FF9900);
+  color: #fff;
+  padding: 10px 40px;
+  border: none;
+  transition: .2s;
+
+}
+
+%btn1:hover {
+  background: linear-gradient(97.1deg, black, black);
+  transition: 0.7s;
+}
+
+%btn2 {
+  background: transparent;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 40px;
+  color: #FFFFFF;
+  padding: 10px 40px;
+  transition: .4s;
+
+
+}
